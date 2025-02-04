@@ -4,3 +4,6 @@ db.daws78s.cloud
 backend.daws78s.cloud
 [frontend]
 daws78s.cloud
+
+[all:vars]
+ansible_password=DevOps321
